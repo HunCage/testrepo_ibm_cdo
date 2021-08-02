@@ -1,2 +1,2 @@
-# Display the output
-console.log("New JavaScript file");
+// Display the output
+console.log("This is a new JavaScript file");
